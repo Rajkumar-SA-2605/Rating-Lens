@@ -3,10 +3,7 @@
 RatingLens is an interactive **Streamlit** application that predicts **corporate default risk** using 16 fundamental financial ratios.  
 It leverages an **XGBoost classifier** as the primary Probability of Default (PD) engine and benchmarks **13 alternative machine learning models**.
 
-The project converts raw financial statements into a transparent, quantitative **credit risk framework** suitable for:
-- Credit & equity analysts  
-- Risk managers  
-- Finance / data science recruiters  
+
 
 ---
 
